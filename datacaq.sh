@@ -28,6 +28,6 @@ EOF
 rm -rf  /var/$NOW_IP.txt
 
 
-test
-
+test111
+11111
 test
